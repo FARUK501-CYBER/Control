@@ -1,0 +1,6 @@
+[FBAN/Orca-Android;FBAV/336.0.0.13.142;FBPN/com.facebook.orca;FBLC/en_US;FBBV/327992372;FBCR/Vodafone idea;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2455;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1466};FB_FW/1;]
+[FBAN/FB4A;FBAV/446.0.0.28.352;FBBV/448411340;FBDM/{density=2.0,width=720,height=1184};FBLC/en_US;FBCR/Ufone;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto X;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FBW;FBAV/93.0.0.64.0;FBBV/62624619;FBDV/WindowsDevice;FBMD/Inspiron 3650;FBSN/Windows;FBSV/10.0.15063.540;FBSS/1;FBCR/Airtel;FBID/desktop;FBLC/en_US;FBOP/45;FBRV/0]
+[FBAN/FB4A;FBAV/446.0.0.28.352;FBBV/448411340;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_GB;FBRV/0;FBCR/Mahadix3 IN;FBMF/TOSHIBA;FBBD/TOSHIBA;FBPN/com.facebook.katana;FBDV/TOSHIBA ALL SERIES;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/VodafoneNZ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-S7275T;FBSV/4.2.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/221.0.0.48.102;FBBV/154683426;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/0;FBCR/VodaCom-SA;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/TA-1024;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
